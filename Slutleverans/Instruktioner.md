@@ -7,7 +7,9 @@ ned .exe filen som ligger i mappen.
 Testning av applikationen kan göras mot:
 
 IP:
+<br>
 Port:
+<br>
 Användarnamn:
 
 
