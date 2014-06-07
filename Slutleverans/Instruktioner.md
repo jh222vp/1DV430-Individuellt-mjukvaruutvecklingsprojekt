@@ -6,7 +6,7 @@ ned .exe filen som ligger i mappen.
 
 Testning av applikationen kan göras mot:
 
-IP: http://www.youtube.com/watch?v=zqUq96Sk8MY
+IP: 85.226.122.222
 <br>
 Port: 21
 <br>
