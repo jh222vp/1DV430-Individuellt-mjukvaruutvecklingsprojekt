@@ -6,11 +6,11 @@ ned .exe filen som ligger i mappen.
 
 Testning av applikationen kan göras mot:
 
-IP:
+IP: http://www.youtube.com/watch?v=zqUq96Sk8MY
 <br>
-Port:
+Port: 21
 <br>
-Användarnamn:
+Användarnamn: Admin
 
 
 =:Troubleshoot:=
